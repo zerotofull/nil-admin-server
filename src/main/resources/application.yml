@@ -1,0 +1,14 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: hwenty
+    url: jdbc:mysql://127.0.0.1:3306/viteadmindb?useSSL=false&useUnicode=true&characterEncoding=UTF8&serverTimezone=Asia/Shanghai
+
+logging:
+  level:
+    com:
+      nilbrains:
+        niladminserver: DEBUG
