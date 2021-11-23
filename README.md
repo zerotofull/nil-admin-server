@@ -4,7 +4,7 @@
 
 ## 技术栈
 
-1. SpringBoot 
+1. SpringBoot
 2. Mybatis Plus
 3. SpringBoot Security
 4. JWT
